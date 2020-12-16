@@ -133,7 +133,7 @@ beta_max_travel                              475
 
 # Z
 gamma_min_endstop                            2.13!^           # 
-gamma_max_endstop                            4.2!^            #
+gamma_max_endstop                            nc               #
 gamma_homing_direction                       home_to_min      # if z is parked it will not move (0mm retract)
 gamma_min                                    0                # if its not parked, it will advance until it skips
 gamma_max                                    46               # and spring will return to 0
