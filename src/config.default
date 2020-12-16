@@ -212,6 +212,12 @@ switch.dragpin.output_type                   digital
 switch.dragpinstate.enable                   true
 switch.dragpinstate.input_pin                4.2
 
+switch.buzzer.enable                         true
+switch.buzzer.input_on_command               M820
+switch.buzzer.input_off_command              M821
+switch.buzzer.output_pin                     1.7
+switch.buzzer.output_type                    digital
+
 #switch.rs422en.enable                        true
 #switch.rs422en.output_pin                    2.1
 #switch.rs422en.output_type                   digital
